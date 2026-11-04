@@ -106,11 +106,11 @@ Uploaded test data is used for evaluation. The application does not retrain the 
 
 ## 9. GitHub Repository
 
-[Add your GitHub repository URL here]
+https://github.com/TiwariAnshika20/Bank_Term_Deposit_Classification.git
 
 ## 10. Live Streamlit Application
 
-[Add your deployed Streamlit application URL here]
+https://banktermdepositclassification-ali9bjnrutaaogawr7wubt.streamlit.app/
 
 ## 11. Technologies Used
 
